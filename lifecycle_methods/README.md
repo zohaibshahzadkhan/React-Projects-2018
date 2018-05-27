@@ -1,5 +1,5 @@
 # React Webpack Starter
-> This is a boilerplate for React 16 & Webpack 4. It includes webpack-dev-server and a build script
+> This is a Counter Application To See LifeCycle Methods In Action
 
 ## Quick Start
 
@@ -10,10 +10,14 @@ npm install
 # Serve on localhost:3000
 npm start
 
-# Build for production
-npm run build
-```
 
 ## App Info
-
+React Life Cycle Methods are :
+	componentWillMount
+	componentDidMount
+	shouldComponentUpdate
+	componentWillUpdate
+	componentDidUpdate
+	componentWillReceiveProps
+	componentWillUnmount
 ### Author Zohaib Shahzad Khan
