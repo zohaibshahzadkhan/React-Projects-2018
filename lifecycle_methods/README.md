@@ -1,4 +1,4 @@
-# React Webpack Starter
+# React Counter Application
 > This is a Counter Application To See LifeCycle Methods In Action
 
 ## Quick Start
