@@ -1,5 +1,5 @@
-# React Webpack Starter
-> React ToDo Application Example using Local Storage .
+
+# React ToDo Application Example using Local Storage .
 
 
 
