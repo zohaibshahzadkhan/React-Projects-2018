@@ -1,0 +1,23 @@
+.header{
+    padding:20px 0px
+}
+.title {
+    color: #d9534f;
+    font-weight: bold;
+    font-size: 42px
+}
+.add_button{
+    padding: 5px 8px;
+    margin-top: 3px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    float: left;
+    height: 40px;
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+.check{
+    border: 1px solid black;
+}
