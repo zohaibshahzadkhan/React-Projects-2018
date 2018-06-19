@@ -1,0 +1,14 @@
+.delete_button {
+
+    padding: 2px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    float: right;
+    height: 40px;
+    color: #fff;
+    /* background-color: #337ab7;
+    border-color: #2e6da4; */
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
